@@ -43,6 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Naver\Translate\TargetLanguage.cs" />
+    <Compile Include="Naver\Translate\Translate.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Yahoo\YQL.cs" />
   </ItemGroup>
