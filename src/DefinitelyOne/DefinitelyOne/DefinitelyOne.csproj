@@ -43,6 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Google\Maps\MapsAPI.cs" />
+    <Compile Include="Google\Maps\Processors.cs" />
+    <Compile Include="Google\Maps\ReverseGeocodeResult.cs" />
     <Compile Include="Naver\Translate\TargetLanguage.cs" />
     <Compile Include="Naver\Translate\Translate.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
